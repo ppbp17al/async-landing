@@ -1,0 +1,22 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "proyecto del curso de asincronismo con js",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src  "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppbp17al/async-landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppbp17al/async-landing/issues"
+  },
+  "homepage": "https://github.com/ppbp17al/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
